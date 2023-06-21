@@ -348,3 +348,970 @@ nothing added to commit but untracked files present (use "git add" to track)
 #
 [muditmaggarwal3092@cxln4 MuditDevops]$ git add .
 [muditmaggarwal3092@cxln4 MuditDevops]$
+
+
+
+  296  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  297  unset PROMPT_COMMAND
+  298  PS1='[PEXPECT]\$ '
+  299  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  300  unset PROMPT_COMMAND
+  301  PS1='[PEXPECT]\$ '
+  302  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  303  unset PROMPT_COMMAND
+  304  PS1='[PEXPECT]\$ '
+  305  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  306  unset PROMPT_COMMAND
+  307  PS1='[PEXPECT]\$ '
+  308  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  309  unset PROMPT_COMMAND
+  310  PS1='[PEXPECT]\$ '
+  311  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  312  unset PROMPT_COMMAND
+  313  PS1='[PEXPECT]\$ '
+  314  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  315  unset PROMPT_COMMAND
+  316  PS1='[PEXPECT]\$ '
+  317  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  318  unset PROMPT_COMMAND
+  319  PS1='[PEXPECT]\$ '
+  320  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  321  unset PROMPT_COMMAND
+  322  PS1='[PEXPECT]\$ '
+  323  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  324  unset PROMPT_COMMAND
+  325  PS1='[PEXPECT]\$ '
+  326  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  327  unset PROMPT_COMMAND
+  328  PS1='[PEXPECT]\$ '
+  329  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  330  unset PROMPT_COMMAND
+  331  PS1='[PEXPECT]\$ '
+  332  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  333  unset PROMPT_COMMAND
+  334  PS1='[PEXPECT]\$ '
+  335  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  336  unset PROMPT_COMMAND
+  337  PS1='[PEXPECT]\$ '
+  338  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  339  unset PROMPT_COMMAND
+  340  PS1='[PEXPECT]\$ '
+  341  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  342  unset PROMPT_COMMAND
+  343  PS1='[PEXPECT]\$ '
+  344  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  345  unset PROMPT_COMMAND
+  346  PS1='[PEXPECT]\$ '
+  347  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  348  unset PROMPT_COMMAND
+  349  PS1='[PEXPECT]\$ '
+  350  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  351  unset PROMPT_COMMAND
+  352  PS1='[PEXPECT]\$ '
+  353  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  354  unset PROMPT_COMMAND
+  355  PS1='[PEXPECT]\$ '
+  356  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  357  unset PROMPT_COMMAND
+  358  PS1='[PEXPECT]\$ '
+  359  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  360  unset PROMPT_COMMAND
+  361  PS1='[PEXPECT]\$ '
+  362  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  363  unset PROMPT_COMMAND
+  364  PS1='[PEXPECT]\$ '
+  365  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  366  unset PROMPT_COMMAND
+  367  PS1='[PEXPECT]\$ '
+  368  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  369  unset PROMPT_COMMAND
+  370  PS1='[PEXPECT]\$ '
+  371  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  372  unset PROMPT_COMMAND
+  373  PS1='[PEXPECT]\$ '
+  374  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  375  unset PROMPT_COMMAND
+  376  PS1='[PEXPECT]\$ '
+  377  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  378  unset PROMPT_COMMAND
+  379  PS1='[PEXPECT]\$ '
+  380  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  381  unset PROMPT_COMMAND
+  382  PS1='[PEXPECT]\$ '
+  383  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  384  unset PROMPT_COMMAND
+  385  PS1='[PEXPECT]\$ '
+  386  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  387  unset PROMPT_COMMAND
+  388  PS1='[PEXPECT]\$ '
+  389  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  390  unset PROMPT_COMMAND
+  391  PS1='[PEXPECT]\$ '
+  392  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  393  unset PROMPT_COMMAND
+  394  PS1='[PEXPECT]\$ '
+  395  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  396  unset PROMPT_COMMAND
+  397  PS1='[PEXPECT]\$ '
+  398  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  399  unset PROMPT_COMMAND
+  400  PS1='[PEXPECT]\$ '
+  401  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  402  unset PROMPT_COMMAND
+  403  PS1='[PEXPECT]\$ '
+  404  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  405  unset PROMPT_COMMAND
+  406  PS1='[PEXPECT]\$ '
+  407  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  408  unset PROMPT_COMMAND
+  409  PS1='[PEXPECT]\$ '
+  410  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  411  unset PROMPT_COMMAND
+  412  PS1='[PEXPECT]\$ '
+  413  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  414  unset PROMPT_COMMAND
+  415  PS1='[PEXPECT]\$ '
+  416  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d2588239-ecda-4484-aa29-9bb9c714cc43.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  417  history
+  418  ls
+  419  cat filenew.txt
+  420  python3
+  421  unset PROMPT_COMMAND
+  422  PS1='[PEXPECT]\$ '
+  423  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7d478ee5-77be-4ce8-a83d-1240243bc54c.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  424  unset PROMPT_COMMAND
+  425  PS1='[PEXPECT]\$ '
+  426  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7d478ee5-77be-4ce8-a83d-1240243bc54c.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  427  unset PROMPT_COMMAND
+  428  PS1='[PEXPECT]\$ '
+  429  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7d478ee5-77be-4ce8-a83d-1240243bc54c.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  430  unset PROMPT_COMMAND
+  431  PS1='[PEXPECT]\$ '
+  432  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7d478ee5-77be-4ce8-a83d-1240243bc54c.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  433  unset PROMPT_COMMAND
+  434  PS1='[PEXPECT]\$ '
+  435  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7d478ee5-77be-4ce8-a83d-1240243bc54c.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  436  unset PROMPT_COMMAND
+  437  PS1='[PEXPECT]\$ '
+  438  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7d478ee5-77be-4ce8-a83d-1240243bc54c.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  439  unset PROMPT_COMMAND
+  440  PS1='[PEXPECT]\$ '
+  441  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7d478ee5-77be-4ce8-a83d-1240243bc54c.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  442  unset PROMPT_COMMAND
+  443  PS1='[PEXPECT]\$ '
+  444  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7d478ee5-77be-4ce8-a83d-1240243bc54c.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  445  unset PROMPT_COMMAND
+  446  PS1='[PEXPECT]\$ '
+  447  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7d478ee5-77be-4ce8-a83d-1240243bc54c.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  448  unset PROMPT_COMMAND
+  449  PS1='[PEXPECT]\$ '
+  450  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7d478ee5-77be-4ce8-a83d-1240243bc54c.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  451  unset PROMPT_COMMAND
+  452  PS1='[PEXPECT]\$ '
+  453  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  454  unset PROMPT_COMMAND
+  455  PS1='[PEXPECT]\$ '
+  456  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  457  unset PROMPT_COMMAND
+  458  PS1='[PEXPECT]\$ '
+  459  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  460  unset PROMPT_COMMAND
+  461  PS1='[PEXPECT]\$ '
+  462  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  463  unset PROMPT_COMMAND
+  464  PS1='[PEXPECT]\$ '
+  465  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  466  unset PROMPT_COMMAND
+  467  PS1='[PEXPECT]\$ '
+  468  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  469  unset PROMPT_COMMAND
+  470  PS1='[PEXPECT]\$ '
+  471  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  472  unset PROMPT_COMMAND
+  473  PS1='[PEXPECT]\$ '
+  474  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  475  unset PROMPT_COMMAND
+  476  PS1='[PEXPECT]\$ '
+  477  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  478  unset PROMPT_COMMAND
+  479  PS1='[PEXPECT]\$ '
+  480  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  481  unset PROMPT_COMMAND
+  482  PS1='[PEXPECT]\$ '
+  483  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  484  unset PROMPT_COMMAND
+  485  PS1='[PEXPECT]\$ '
+  486  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  487  unset PROMPT_COMMAND
+  488  PS1='[PEXPECT]\$ '
+  489  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  490  unset PROMPT_COMMAND
+  491  PS1='[PEXPECT]\$ '
+  492  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  493  unset PROMPT_COMMAND
+  494  PS1='[PEXPECT]\$ '
+  495  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  496  unset PROMPT_COMMAND
+  497  PS1='[PEXPECT]\$ '
+  498  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  499  unset PROMPT_COMMAND
+  500  PS1='[PEXPECT]\$ '
+  501  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  502  unset PROMPT_COMMAND
+  503  PS1='[PEXPECT]\$ '
+  504  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  505  unset PROMPT_COMMAND
+  506  PS1='[PEXPECT]\$ '
+  507  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-a1eeca80-3a3a-405a-90ca-2929b44607e7.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  508  python3
+  509  unset PROMPT_COMMAND
+  510  PS1='[PEXPECT]\$ '
+  511  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7f26348e-0daa-4f6f-945e-fedc608f0504.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  512  unset PROMPT_COMMAND
+  513  PS1='[PEXPECT]\$ '
+  514  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7f26348e-0daa-4f6f-945e-fedc608f0504.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  515  unset PROMPT_COMMAND
+  516  PS1='[PEXPECT]\$ '
+  517  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7f26348e-0daa-4f6f-945e-fedc608f0504.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  518  unset PROMPT_COMMAND
+  519  PS1='[PEXPECT]\$ '
+  520  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7f26348e-0daa-4f6f-945e-fedc608f0504.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  521  unset PROMPT_COMMAND
+  522  PS1='[PEXPECT]\$ '
+  523  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7f26348e-0daa-4f6f-945e-fedc608f0504.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  524  unset PROMPT_COMMAND
+  525  PS1='[PEXPECT]\$ '
+  526  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7f26348e-0daa-4f6f-945e-fedc608f0504.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  527  unset PROMPT_COMMAND
+  528  PS1='[PEXPECT]\$ '
+  529  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7f26348e-0daa-4f6f-945e-fedc608f0504.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  530  unset PROMPT_COMMAND
+  531  PS1='[PEXPECT]\$ '
+  532  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7f26348e-0daa-4f6f-945e-fedc608f0504.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  533  unset PROMPT_COMMAND
+  534  PS1='[PEXPECT]\$ '
+  535  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7f26348e-0daa-4f6f-945e-fedc608f0504.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  536  unset PROMPT_COMMAND
+  537  PS1='[PEXPECT]\$ '
+  538  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7f26348e-0daa-4f6f-945e-fedc608f0504.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  539  unset PROMPT_COMMAND
+  540  PS1='[PEXPECT]\$ '
+  541  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7f26348e-0daa-4f6f-945e-fedc608f0504.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  542  unset PROMPT_COMMAND
+  543  PS1='[PEXPECT]\$ '
+  544  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-7f26348e-0daa-4f6f-945e-fedc608f0504.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  545  pwd
+  546  cd cloudxlab_jupyter_notebooks
+  547  pwd
+  548  touch python_file_writing.txt
+  549  cat python_file_writing.txt
+  550  ls -alt
+  551  cat python_file_writing.txt
+  552  222vcat
+  553  cat python_file_writing.txt
+  554  unset PROMPT_COMMAND
+  555  PS1='[PEXPECT]\$ '
+  556  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d7e62eb7-738c-46c2-9be1-5b02a31344e9.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  557  unset PROMPT_COMMAND
+  558  PS1='[PEXPECT]\$ '
+  559  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d7e62eb7-738c-46c2-9be1-5b02a31344e9.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  560  unset PROMPT_COMMAND
+  561  PS1='[PEXPECT]\$ '
+  562  /usr/local/anaconda/bin/jupyter console --existing=~/.local/share/jupyter/runtime/kernel-d7e62eb7-738c-46c2-9be1-5b02a31344e9.json --ZMQTerminalInteractiveShell.banner="" --ZMQTerminalInteractiveShell.simple_prompt=True
+  563  history
+  564  nc www.dr-chuck.com 80
+  565  telnet www.dr-chuck.com 80
+  566  nc www.dr-chuck.com80
+  567  nc www.dr-chuck.com 80
+  568  nc www.google.com 80
+  569  nc www.umich.edu 80
+  570  ls
+  571  ls myfirstfile.txt
+  572  echo "He walked into his exile" > ~/myfirstfile.txt
+  573  ls
+  574  cp myfirstfile.txt myfirstfile_copy.txt
+  575  cp myfirstfile.txt myproject
+  576  cd myproject
+  577  mkdir myproject
+  578  cat myproject
+  579  rm myproject
+  580  mkdir myproject
+  581  cp myfirstfile.txt myproject
+  582  ls
+  583  grep -i 'what' myfile1.txt | uniq | tr '\n' ' ' > myfile_updated.txt
+  584  pwd
+  585  mkdir devops
+  586  ls
+  587  ls devops
+  588  ls -al devops
+  589  cd devops
+  590  git version
+  591  ls
+  592  python helloworld.py
+  593  git iniit .
+  594  git init .
+  595  ls -a
+  596  ls -l .git
+  597  pwd
+  598  ls -al
+  599  la -s
+  600  ls -a
+  601  git add helloworld.py
+  602  git commit helloworld.py
+  603  git log
+  604  git version
+  605  git -version
+  606  git --version
+  607  git versin
+  608  ssh
+  609  ssh-keygen
+  610  ls -lrt
+  611  more devops.pub
+  612  cd GIT/
+  613  cd .git
+  614  ls
+  615  cd ..
+  616  cd git
+  617  cd git/
+  618  cd GIT/
+  619  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDPJu/e/xmW2J8NfEuNRksCwyaMEmIW+DpMKMdB99uKdmKXgQa4ES8EPsw+YYjc4
+  620  AHuLs+0GF5FPQh9N3mRLKj+qe8+RqsOPVjp4UqS2OhDgN1iriweBwI8yhcRASJN58a1F5tEEv76Z8zswAzdDLv8DPmIvDIcwcCdw4
+  621  nXs0JfKoq/w254Ie8MNbFPISCGKzhxx5vEgF3IR0E0BC8XoqFey5SDldYNRRgVPR5BSvQwgt6BQ8+tj6cd7rKdbgc6L2EX8Ql8bL+
+  622  vBfjHLqdvpVrWqSVusuUwRR1yFxwUGCDS8Dma0QNL7vjJnTQgvSti2NDC7xtoDKALb6djdkm70JYt muditmaggarwal3092@cxln
+  623  4
+  624  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDPJu/e/xmW2J8NfEuNRksCwyaMEmIW+DpMKMdB99uKdmKXgQa4ES8EPsw+YYjc4
+  625  AHuLs+0GF5FPQh9N3mRLKj+qe8+RqsOPVjp4UqS2OhDgN1iriweBwI8yhcRASJN58a1F5tEEv76Z8zswAzdDLv8DPmIvDIcwcCdw4
+  626  nXs0JfKoq/w254Ie8MNbFPISCGKzhxx5vEgF3IR0E0BC8XoqFey5SDldYNRRgVPR5BSvQwgt6BQ8+tj6cd7rKdbgc6L2EX8Ql8bL+
+  627  vBfjHLqdvpVrWqSVusuUwRR1yFxwUGCDS8Dma0QNL7vjJnTQgvSti2NDC7xtoDKALb6djdkm70JYt muditmaggarwal3092@cxln
+  628  git clone git@github.com:singh-ashok25/webserver.git
+  629  ls
+  630  history
+  631  ls
+  632  git clone https://github.com/in28minutes/devops-master-class.git
+  633  ls
+  634  cd devops-master-class
+  635  ls
+  636  cd ..
+  637  ~/.ssh
+  638  ls -al ~/.ssh
+  639  ls -al devops.pub
+  640  ssh -T git@github.com
+  641  ls -a
+  642  cd GIT
+  643  git clone https://github.com/Mudit1995/medinfo.git
+  644  cd medinfo/
+  645  history
+  646  la
+  647  ls
+  648  cd devops
+  649  ls
+  650  ls -a
+  651  git status
+  652  cd GIT
+  653  ls
+  654  cd ..
+  655  ls
+  656  git add .
+  657  git stats
+  658  git status
+  659  ls
+  660  git status
+  661  git init
+  662  ls -a
+  663  cat helloworld1.py
+  664  git status
+  665  git add helloworld1.py
+  666  git status
+  667  git commit -m "added helloworld1.py"
+  668  git config --global user.name
+  669  git config --global user.email
+  670  git config --global user.name Mudit1995
+  671  git commit -m "added helloworld1.py"
+  672  git status
+  673  git add .
+  674  git status
+  675  git commit -m """
+  676  ``
+  677  quit
+  678  q
+  679  q
+  680  "
+  681  ls
+  682  touch helloworld123.py
+  683  ls
+  684  git status
+  685  git add helloworld123.py
+  686  git status
+  687  nano helloworld123.py
+  688  ls
+  689  cat helloworld123.py
+  690  git staus
+  691  git status
+  692  git commit -m "v1 of hellowworld123"
+  693  git status
+  694  git commit -m "v2 of helloworld is commited"
+  695  git status
+  696  git commit -m "v2 of helloworld123.py"
+  697  git add helloworld123.py
+  698  git commit -m "V2 of helloworld123.py"
+  699  git status
+  700  git config --global user.name
+  701  git config --global user.email
+  702  git config --global user.email "mudit.m.aggarwal@gmail.com"
+  703  git config --global user.email
+  704  git config --global user.name
+  705  git config --global user.email
+  706  git remote add origin https://github.com/Mudit1995/DevOps.git
+  707  git branch -M main
+  708  git push -u origin main
+  709  git remote add origin https://github.com/Mudit1995/DevOps.git
+  710  git branch -M main
+  711  git push -u origin main
+  712  git status
+  713  git logs
+  714  git log
+  715  git push -u origin main
+  716  git remote set-url origin git@github.com:Mudit1995/DevOps.git
+  717  git push -u origin main
+  718  ls
+  719  cd devops
+  720  ls -a
+  721  git config user.name
+  722  git config user.email
+  723  git config user.name "Mudit1995"
+  724  git config user.email "mudit.m.aggarwal@gmail.com"
+  725  ls
+  726  rm helloworld.py
+  727  touch helloworld.py
+  728  nano helloworld.py
+  729  cat helloworld.py
+  730  git status
+  731  git add helloworld.py
+  732  git commit -m "First commit"
+  733  git status
+  734  git branch
+  735  git branch feature_a
+  736  git checkout feature_a
+  737  git branch
+  738  nano helloworld.py
+  739  git status
+  740  git commit -am "Added I am learning git line"
+  741  git staus
+  742  git status
+  743  git branch
+  744  git logs
+  745  git log
+  746  git branch
+  747  git checkout main
+  748  cat helloworld.py
+  749  git merge feature_a
+  750  cat helloworld.py
+  751  git remote add origin git@github.com:Mudit1995/DevOps.git
+  752  ls
+  753  ls -la devops.pub
+  754  ls -la devops
+  755  ssh-keygen -t rsa -b 4096
+  756  cat ~/.ssh/id_rsa.pub
+  757  ls -al
+  758  pws
+  759  pwd
+  760  cd ..
+  761  pwd
+  762  ls
+  763  ls -a
+  764  ls -al .ssh
+  765  ls -al
+  766  cd devops
+  767  ls
+  768  git push -u origin main
+  769  git remote -v
+  770  history
+  771  git push -u origin master
+  772  git remote set-url origin https://github.com/Mudit1995/DevOps.git
+  773  git push -u origin master
+  774  git remote -v
+  775  cd ..
+  776  cd ~
+  777  git clone https://github.com/singh-ashok25/webserver
+  778  history
+  779  cd devops
+  780  ls
+  781  ls -a
+  782  cat devops.pub
+  783  cd ..
+  784  ls
+  785  cd muditmaggarwal3092
+  786  ls
+  787  ls -a
+  788  cd .ssh
+  789  ls -a
+  790  history
+  791  ssh-keygen -t rsa -b 4096
+  792  ls -a
+  793  cat devops.pub
+  794  cd ~
+  795  ls
+  796  cs .ssh
+  797  cd .ssh
+  798  ls -a
+  799  touch config
+  800  nano config
+  801  ssh-add ~/.ssh/devops
+  802  ssh-add -D
+  803  eval `ssh-agent -s`
+  804  ssh-add
+  805  ssh-add ~/.ssh/devops
+  806  ls -a
+  807  cd config
+  808  cd ~
+  809  git remote -v
+  810  cd devops
+  811  ls -a
+  812  git remote -v
+  813  get branch
+  814  git branch
+  815  git status
+  816  git log
+  817  git push origin feature_a
+  818  git init
+  819  git set-remote origin git@github.com:Mudit1995/desktop-tutorial.git
+  820  git remote add origin git@github.com:Mudit1995/desktop-tutorial.git
+  821  git remote -v
+  822  git remote set-url origin git@github.com:Mudit1995/desktop-tutorial.git
+  823  git remote -v
+  824  git push origin feature_a
+  825  history
+  826  pwd
+  827  ls -a
+  828  cd ssh
+  829  cd .ssh
+  830  ls -a
+  831  cat config
+  832  cd ~
+  833  ls -a
+  834  cd devops
+  835  ls -a
+  836  cd ..
+  837  mkdir MuditDevops
+  838  cls
+  839  ls -a
+  840  cd MuditDevops
+  841  ls
+  842  ls -a
+  843  git init
+  844  ls -s
+  845  ls -a
+  846  touch hello.txt
+  847  ls -a
+  848  git status
+  849  git add hellotxt
+  850  git add hello.txt
+  851  ls -a
+  852  git statsus
+  853  git status
+  854  git commit -m "first time commit"
+  855  git status
+  856  git logs
+  857  git log
+  858  nano hello.txt
+  859  git status
+  860  git add .
+  861  git status
+  862  git commit -m "second commit to the file hello.txt "
+  863  git log
+  864  nano helloworld.txt
+  865  git status
+  866  git add .
+  867  git status
+  868  git commit -m "version 1 will be commited we have single line"
+  869  git status
+  870  git add.
+  871  git add .
+  872  git status
+  873  git commit -m "version 2 of this file is commmited w ehave both the line"
+  874  git status
+  875  git log
+  876  git remote add origin git@github.com:Mudit1995/DevOps.git
+  877  git branch -M main
+  878  git branch
+  879  git push -u origin main
+  880  git status
+  881  git status
+  882  git add .
+  883  git commit -m "commited both the file hello and helloword"
+  884  git log
+  885  git pushgit push -u origin main
+  886  git push -u origin main
+  887  git clone https://github.com/tomarshabh2199/System-Design-Architectural-Diagram.git
+  888  ls -a
+  889  cd System-Design-Architectural-Diagram/
+  890  touch hello.txt
+  891  git init
+  892  git add .
+  893  git commit -m "we have commited to a cloned file"
+  894  git log
+  895  git remote add origin git@github.com:Mudit1995/DesignPatterns.git
+  896  git remote -v
+  897  git remote add myorigin git@github.com:Mudit1995/DesignPatterns.git
+  898  git push -u myorigin main
+  899  git btanch
+  900  git branch
+  901  cd ..
+  902  ls
+  903  ls -a
+  904  git rm hello.txt
+  905  touch hello.txt
+  906  git status
+  907  git rm hello.txt
+  908  git add .
+  909  git rm hello.txt
+  910  git rm -f hello.txt
+  911  touch hello.txt
+  912  git status
+  913  git add .
+  914  git rm --cached hello.txt
+  915  get status
+  916  git status
+  917  git add.
+  918  git add .
+  919  git status
+  920  git commit -m "commit the file hello.txt"
+  921  git status
+  922  git commit --amend
+  923  git log
+  924  git commit --amend
+  925  git status
+  926  touch abc.next
+  927  rm abc.next
+  928  touch abc.txt
+  929  git status
+  930  nano abc.txt
+  931  git status
+  932  git add .
+  933  git status
+  934  git add .
+  935  history
+[muditmaggarwal3092@cxln4 ~]$ git status
+fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[muditmaggarwal3092@cxln4 ~]$ ls
+cloudxlab_jupyter_notebooks  myemptyfile.txt       mylink            project          Untitled.ipynb           xyz
+devops                       myfile1.txt           myproject         s                wc_results               z
+filenew.txt                  myfile_updated.txt    mysecondfile.txt  src              webserver
+hello.out                    myfirstfile_copy.txt  myslink           testlink         word_count_results
+MuditDevops                  myfirstfile.txt       orig_text         testslink        word_count_results_nice
+myemptyfile                  myfirstscript.sh      proj              Untitled1.ipynb  wordcountscript.sh
+[muditmaggarwal3092@cxln4 ~]$ ls -a
+.                            .gitconfig          myfile1.txt           orig_text        Untitled1.ipynb
+..                           hello.out           myfile_updated.txt    .pki             Untitled.ipynb
+.bash_history                .ipynb_checkpoints  myfirstfile_copy.txt  proj             wc_results
+.bash_logout                 .ipython            myfirstfile.txt       project          webserver
+.bash_profile                .jupyter            myfirstscript.sh      .python_history  word_count_results
+.bashrc                      .keras              mylink                s                word_count_results_nice
+.cache                       .local              myproject             src              wordcountscript.sh
+cloudxlab_jupyter_notebooks  MuditDevops         mysecondfile.txt      .ssh             xyz
+devops                       myemptyfile         myslink               testlink         z
+filenew.txt                  myemptyfile.txt     .mysql_history        testslink
+[muditmaggarwal3092@cxln4 ~]$ cd MuditDevops
+[muditmaggarwal3092@cxln4 MuditDevops]$ git init
+Reinitialized existing Git repository in /home/muditmaggarwal3092/MuditDevops/.git/
+[muditmaggarwal3092@cxln4 MuditDevops]$ git status
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#       new file:   abc.txt
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#       modified:   hello.txt
+#
+[muditmaggarwal3092@cxln4 MuditDevops]$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+Did you mean this?
+        add
+[muditmaggarwal3092@cxln4 MuditDevops]$ git add .
+[muditmaggarwal3092@cxln4 MuditDevops]$ git status
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#       new file:   abc.txt
+#       modified:   hello.txt
+#
+[muditmaggarwal3092@cxln4 MuditDevops]$ git reset HEAD abc.txt
+[muditmaggarwal3092@cxln4 MuditDevops]$ git status
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#       modified:   hello.txt
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#       abc.txt
+[muditmaggarwal3092@cxln4 MuditDevops]$ git commit -m "commiting the file hello.txt"
+[main ea016ac] commiting the file hello.txt
+ 1 file changed, 350 insertions(+), 1 deletion(-)
+ rewrite hello.txt (100%)
+[muditmaggarwal3092@cxln4 MuditDevops]$ git log
+commit ea016acf115a9218858b3a9648ecdab36ca826a6
+Author: Mudit1995 <mudit.m.aggarwal@gmail.com>
+Date:   Wed Jun 21 10:55:31 2023 +0000
+
+    commiting the file hello.txt
+
+commit 3be9974e61e1f370fbbdc60b2c08cb8218c6fb26
+Author: Mudit1995 <mudit.m.aggarwal@gmail.com>
+Date:   Wed Jun 21 10:28:09 2023 +0000
+
+    commit 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+
+commit 57f125f9cd05af0f0537ec2d75f4f3439c50cf01
+Author: Mudit1995 <mudit.m.aggarwal@gmail.com>
+Date:   Wed Jun 21 09:58:54 2023 +0000
+
+    commited both the file hello and helloword
+
+commit 0e70b2d6520f1490bfc7585a4e9c9686fe539f08
+Author: Mudit1995 <mudit.m.aggarwal@gmail.com>
+Date:   Wed Jun 21 09:51:52 2023 +0000
+
+    version 2 of this file is commmited w ehave both the line
+
+commit 532902d2664b73fb6d028ffba9c9bda712e72853
+Author: Mudit1995 <mudit.m.aggarwal@gmail.com>
+Date:   Wed Jun 21 09:50:34 2023 +0000
+
+    version 1 will be commited we have single line
+
+commit eaa3582f9a548694a8f41c1048f94a89dde0d262
+Author: Mudit1995 <mudit.m.aggarwal@gmail.com>
+Date:   Wed Jun 21 09:47:31 2023 +0000
+
+    second commit to the file hello.txt
+
+commit 6f31cce1364888e2edbb99751857367b09815444
+Author: Mudit1995 <mudit.m.aggarwal@gmail.com>
+Date:   Wed Jun 21 09:45:22 2023 +0000
+
+    first time commit
+[muditmaggarwal3092@cxln4 MuditDevops]$
+[muditmaggarwal3092@cxln4 MuditDevops]$ git status
+# On branch main
+# Your branch is ahead of 'origin/main' by 2 commits.
+#   (use "git push" to publish your local commits)
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#       abc.txt
+nothing added to commit but untracked files present (use "git add" to track)
+[muditmaggarwal3092@cxln4 MuditDevops]$ git add .
+[muditmaggarwal3092@cxln4 MuditDevops]$ git status
+# On branch main
+# Your branch is ahead of 'origin/main' by 2 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#       new file:   abc.txt
+#
+[muditmaggarwal3092@cxln4 MuditDevops]$ git commit -m "commit abc.txt"
+[main dafbe2d] commit abc.txt
+ 1 file changed, 5 insertions(+)
+ create mode 100644 abc.txt
+[muditmaggarwal3092@cxln4 MuditDevops]$ git status
+# On branch main
+# Your branch is ahead of 'origin/main' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+nothing to commit, working directory clean
+[muditmaggarwal3092@cxln4 MuditDevops]$ git status
+# On branch main
+# Your branch is ahead of 'origin/main' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#       modified:   abc.txt
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+[muditmaggarwal3092@cxln4 MuditDevops]$ git checkout --abc.txt
+error: unknown option `abc.txt'
+usage: git checkout [options] <branch>
+   or: git checkout [options] [<branch>] -- <file>...
+
+    -q, --quiet           suppress progress reporting
+    -b <branch>           create and checkout a new branch
+    -B <branch>           create/reset and checkout a branch
+    -l                    create reflog for new branch
+    --detach              detach the HEAD at named commit
+    -t, --track           set upstream info for new branch
+    --orphan <new branch>
+                          new unparented branch
+    -2, --ours            checkout our version for unmerged files
+    -3, --theirs          checkout their version for unmerged files
+    -f, --force           force checkout (throw away local modifications)
+    -m, --merge           perform a 3-way merge with the new branch
+    --overwrite-ignore    update ignored files (default)
+    --conflict <style>    conflict style (merge or diff3)
+    -p, --patch           select hunks interactively
+    --ignore-skip-worktree-bits
+                          do not limit pathspecs to sparse entries only
+
+[muditmaggarwal3092@cxln4 MuditDevops]$ git checkout -- abc.txt
+[muditmaggarwal3092@cxln4 MuditDevops]$ git status
+# On branch main
+# Your branch is ahead of 'origin/main' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+nothing to commit, working directory clean
+[muditmaggarwal3092@cxln4 MuditDevops]$ git add .
+[muditmaggarwal3092@cxln4 MuditDevops]$ git status
+# On branch main
+# Your branch is ahead of 'origin/main' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#       modified:   abc.txt
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+[muditmaggarwal3092@cxln4 MuditDevops]$ git stash
+Saved working directory and index state WIP on main: dafbe2d commit abc.txt
+HEAD is now at dafbe2d commit abc.txt
+[muditmaggarwal3092@cxln4 MuditDevops]$ git status
+# On branch main
+# Your branch is ahead of 'origin/main' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+nothing to commit, working directory clean
+[muditmaggarwal3092@cxln4 MuditDevops]$ git stash pop
+# On branch main
+# Your branch is ahead of 'origin/main' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#       modified:   abc.txt
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (b595fb0e2790aa5cabd618cbeb5f89d35261f6f5)
+[muditmaggarwal3092@cxln4 MuditDevops]$ git stash
+Saved working directory and index state WIP on main: dafbe2d commit abc.txt
+HEAD is now at dafbe2d commit abc.txt
+[muditmaggarwal3092@cxln4 MuditDevops]$ git stash pop
+# On branch main
+# Your branch is ahead of 'origin/main' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#       modified:   abc.txt
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (7480a2a3b31504e48cdad0b6ffd641a37701ec7b)
+[muditmaggarwal3092@cxln4 MuditDevops]$ git status
+# On branch main
+# Your branch is ahead of 'origin/main' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#       modified:   abc.txt
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+[muditmaggarwal3092@cxln4 MuditDevops]$ git commit -m "commit abc.txt"
+# On branch main
+# Your branch is ahead of 'origin/main' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#       modified:   abc.txt
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+[muditmaggarwal3092@cxln4 MuditDevops]$ git add .
+[muditmaggarwal3092@cxln4 MuditDevops]$ git commit -m "commit abc.txt"
+[main bf4a7d6] commit abc.txt
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[muditmaggarwal3092@cxln4 MuditDevops]$ git commit
+# On branch main
+# Your branch is ahead of 'origin/main' by 4 commits.
+#   (use "git push" to publish your local commits)
+#
+nothing to commit, working directory clean
+[muditmaggarwal3092@cxln4 MuditDevops]$ git branch function
+[muditmaggarwal3092@cxln4 MuditDevops]$ git branch
+  function
+* main
+[muditmaggarwal3092@cxln4 MuditDevops]$ touch hellow.txt
+[muditmaggarwal3092@cxln4 MuditDevops]$ git checkout function
+Switched to branch 'function'
+[muditmaggarwal3092@cxln4 MuditDevops]$ git branch
+* function
+  main
+[muditmaggarwal3092@cxln4 MuditDevops]$ git status
+# On branch function
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#       hellow.txt
+nothing added to commit but untracked files present (use "git add" to track)
+[muditmaggarwal3092@cxln4 MuditDevops]$ git commit -am "hellow.txt commited"
+# On branch function
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#       hellow.txt
+nothing added to commit but untracked files present (use "git add" to track)
+[muditmaggarwal3092@cxln4 MuditDevops]$ git add .
+[muditmaggarwal3092@cxln4 MuditDevops]$ git commit -m "hellow.txt commited"
+[function 0176bbe] hellow.txt commited
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 hellow.txt
+[muditmaggarwal3092@cxln4 MuditDevops]$ git status
+# On branch function
+nothing to commit, working directory clean
+[muditmaggarwal3092@cxln4 MuditDevops]$ git branch
+* function
+  main
+[muditmaggarwal3092@cxln4 MuditDevops]$ touch hey.txt
+[muditmaggarwal3092@cxln4 MuditDevops]$ git add >
+bash: syntax error near unexpected token `newline'
+[muditmaggarwal3092@cxln4 MuditDevops]$ git add .
+[muditmaggarwal3092@cxln4 MuditDevops]$ git commit -m "commit hey.txt from fun branch"
+[function 1982005] commit hey.txt from fun branch
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 hey.txt
+[muditmaggarwal3092@cxln4 MuditDevops]$ git status
+# On branch function
+nothing to commit, working directory clean
+[muditmaggarwal3092@cxln4 MuditDevops]$
